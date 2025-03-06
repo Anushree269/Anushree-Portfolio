@@ -44,8 +44,8 @@ body{
   .circle {
     width: 300px; /* Diameter */
     height: 300px; /* Diameter */
-    background-color: #2E86AB; /* Fill color */
-    border: 5px dashed #2E86AB; /* Dashed border */
+    background-color: #6A2DD7; /* Fill color */
+    border: 5px dashed #6A2DD7; /* Dashed border */
     border-radius: 50%; /* Makes it circular */
     position: absolute;
     top: 50%; /* Vertically center */
@@ -170,7 +170,7 @@ body{
         background-color: #e57d00;
       }
       #aboutme{
-        background-color: #2E86AB; /* Blue background */
+        background-color: #6A2DD7; /* Blue background */
         padding: 40px;
         margin-top: 250px;
         margin-left: 20px;
@@ -359,8 +359,8 @@ body{
   .circle1 {
     width: 400px; /* Diameter */
     height: 400px; /* Diameter */
-    background-color: #2E86AB; /* Fill color */
-    border: 5px dashed #2E86AB; /* Dashed border */
+    background-color: #6A2DD7; /* Fill color */
+    border: 5px dashed #6A2DD7; /* Dashed border */
     border-radius: 50%; /* Makes it circular */
     position: absolute;
     margin-top: -250px;
